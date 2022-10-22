@@ -1,0 +1,57 @@
+*  {
+	box-sizing:border-box;
+}
+
+body	{
+	    margin:0;
+  	    background-image: url("images/FA3_office productivity.jpg");
+	    background-repeat: no-repeat;
+	    background-position: center;
+	    background-attachment: fixed;
+	    background-color: #ffa600;
+	    color: #ffffff;
+}
+
+h1	{
+	    text-align: center;
+	    font-family: verdana;
+	    border-style:  dotted;
+	    border-width: 2px;
+	    border-color: blue;
+	    padding-top: 10px;
+	    padding-right: 15px;
+	    padding-bottom: 10px;
+	    padding-left: 15px;
+	    width: 250px;
+	    margin-bottom: 20px;
+	    background-color: lightblue;
+	
+	    
+}
+
+
+p	{
+   	    text-align: justify;
+	    font-style: italic;
+	    background-color: hsl(269, 17%, 50%);
+	    color: hsl(0, 0%, 100%);
+	    padding: 20px;
+	    border-width: 3px;
+	    border-style: dashed;
+	    border-color: blue;
+	    width: 500px;
+}
+
+span	{ 
+	    color:  rgb(0, 180, 0);
+	    margin-left: 2px;
+	    margin-right: 5px;
+}
+
+.center {
+  margin: auto;
+}
+
+
+
+
